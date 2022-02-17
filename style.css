@@ -1,0 +1,60 @@
+body {
+  background-image: url("wallpaper.jpg");
+  background-size: cover;
+  font-family: cursive;
+  font-size: 150%;
+  color: #d8d5d5;
+  font-weight: bold;
+  text-align: center;
+}
+h1 {
+  font-family: monospace;
+  font-size: 70px;
+  color: #cdeaf3;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h2 {
+font-size: 70px;
+margin-top: auto;
+margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: cursive;
+  font-size: 100%;
+  color: silver;
+  font-weight: bold;
+  width: 250px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+
+}
+#calculate-btn {
+  background: darkgreen;
+}
+
+#reset-btn {
+  background: teal;
+}
+
+#save-btn {
+  background: darkblue;
+}
+#weight {
+  background: #e2d3d3;
+  height: 30px;
+  border-radius: 5px;
+}
+#height {
+  background: #e7e7f0;
+  height: 30px;
+  border-radius: 5px;
+}
